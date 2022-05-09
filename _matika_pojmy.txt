@@ -1,0 +1,121 @@
+1. 
+MATEMATICKÝ VÝRAZ - kombinace symbolů tvořící formuli podle pravidel závislých na kontextu 
+AXIOM - tvrzení, které se pokládá za platné, takže se nedokazuje 
+DEFINICE - jednoznačné určení významu nějakého pojmu 
+VĚTA - tvrzení podložené důkazem, odvození z definic, axiomů 
+VÝROK - sdělení oznamovací větou či zápisem, má smysl o něm rozhodovat, zda je pravdivý nebo ne 
+HYPOTÉZA - neumíme rozhodnout o pravdivosti 
+TAUTOLOGIE - vždy pravdivá tvrzení, nezáleží jestli A = 0 nebo 1, prostě platí 
+KONTRADIKCE - nikdy neplatí 
+OBRÁCENÁ IMPLIKACE - A → B ===> B → A 
+OBMĚNĚNÁ IMPLIKACE - A → B ===> ¬B → ¬A, stejná pravdivostí hodnota jako původní implikace 
+DŮKAZ MATEMATICKOU INDUKCÍ - důkaz začíná na konkrétním n, dokážeme pro n, následně pro libovolné k a (k + 1) 
+2. 
+MNOŽINA - soubor prvků určité vlastnosti braný jako celek 
+PRVEK MNOŽINY - objekt patřící do množiny 
+DOPLNĚK - A'_B = patří do B, nepatří do A 
+ZOBRAZENÍ PROSTÉ (injektivní) - různým prvkům přiřadí různé obrazy, ne všechno musí být použito, má inverzní zobrazení 
+ZOBRAZENÍ NA (surjektivní) - na každé Y je něco zobrazeno 
+ZOBRAZENÍ BIJEKTIVNÍ - zároveň prosté i na 
+SLOŽENÉ ZOBRAZENÍ - víc než dvě množiny 
+BINÁRNÍ RELACE - libovolná podmnožina kartézského systému 
+3. 
+UZAVŽENOST - po sečtení i násobení zůstanou v původním číselném oboru 
+KOMUTATIVNÍ - nezáleží na pořadí 
+ASOCIATIVNÍ - nezáleží na závorkách, můžeme volně družit 
+DISTRIBUTIVNÍ - roznásobování závorek 
+NEUTRÁLNÍ PRVEK - a + 0 = a; a * 1 = a 
+4. 
+ALGEBRAICKÁ RCE - na levé straně polynom n-tého stupně 
+5. 
+FCE REÁLNÉ PROMĚNNÉ - na každé X pouze jedno Y 
+DEFINIČNÍ OBOR - dosadíme za X 
+OBOR HODNOT - dosadíme za Y 
+6. 
+KVADRATICKÝ ČLEN = AX^2 
+LINEÁRNÍ ČLEN = BX 
+ABSOLUTNÍ ČLEN = C
+7. 
+OKOLÍ BODU - ε - (a-ε) < a < (a+ε), pravé/levé okolí bodu, prstencové okolí bodu (není hned u bodu, je tam okolo něj prostor) 
+PŘÍRŮSTEK ARGUMENTU - přírůstek v okolí na X 
+PŘÍRŮSTEK FUNKCE - přírůstek v okolí na Y 
+SPOJITÁ  V BODĚ - pokud pro všechna X z libovolně zvoleného okolí patří nějaké Y 
+SPOJITÁ V UZAVŘENÉM INTERVALU - spojitá v každém jeho bodě 
+VLASTNÍ LIMITA - výsledek = normální číslo 
+NEVLASTNÍ LIMITA - výsledek = +- nekonečno 
+VLASTNÍ BOD - basic bod 
+NEVLASTNÍ BOD - +- nekonečno 
+8. 
+LOGARITMUS - log_a(x) = y ↔ a^y = x 
+a ...základ logaritmu 
+x ...argument 
+y ...logarimus čísla x při základu a 
+PŘIROZENÝ LOGARITMUS - ln(x) - logarimust o základu e (Eulerovo číslo) 
+e ...aby tečnou této exponenciály v bodě A=(1,0) byla přímka y = x - 1 
+9. 
+tg = sin/cos 
+CYKLOMETRICKÉ FCE - inverzní k goniometrickým 
+10. 
+asi nic idk 
+11. 
+VARIACE - uspořádaný 
+KOMBINACE - neuspořádaný 
+PERMUTACE - n-tice z n-prvkové množiny, každý prvek jednou 
+BINOMICKÁ VĚTA - n-tou mocninu rozložíme na (n + 1) sčítanců 
+12. 
+BERNOULLIHO SCHÉMA - k výpočtu pravděpodobnosti při opakovaném pokusu, má vzoreček 
+KLASICKÁ - konečný počet možných výsledků, všechny výsledky jsou stejně možné, všechny výsledky se vzájemně vylučují 
+GEOMETRICKÁ - není konečný počet výsledků 
+13. 
+STATISTICKÝ SOUBOR - skupina objektů, které studujeme 
+PRVEK - každý objekt souboru 
+ROZSAH - počet prvků 
+ARITMETICKÝ PRŮMĚR - (součet hodnot)/(počet hodnot)
+GEOMETRICKÝ PRŮMĚR - n čísel, n-tá odmocnina jejich součinu 
+HARMONICKÝ PRŮMĚR - podíl počtu čísel a součtu jejich převrácených hodnot 
+MODUS - nejčastěji 
+MEDIÁN - uprostřed 
+VARIAČNÍ ROZPĚTÍ - X_max - X_min 
+ROZPTYL - zachycuje, jak moc jsou jednotky v souboru odchýlené vzdálené od průměru, aby výsledek nebyl nula je hodnota těchto odchylek umocněna 
+SMĚRODATNÁ ODCHYLKA - průměrná odchylka od průměru, druhá odmocnina z rozptylu 
+VARIAČNÍ KOEFICIENT - v = s/x 
+14. 
+POSLOUPNOST - sada objektů, v níž záleží na pořadí, objekty se mohou opakovat 
+KONVERGENTNÍ - má vlastní limitu 
+DIVERGENTNÍ - nemá vlastní limitu, jde k nekonečnu 
+NEKONEČNÁ GEOMETRICKÁ ŘADA - q < 1 → konvergentní, q >= 1 → divergentní 
+15. 
+BOD - bezrozměrná věc 
+PŘÍMKA - libovolná nekonečná rovná čára určená dvěma body 
+ÚSEČKA - rovná čára ohraničená dvěma body 
+POLOPŘÍMKA - rovná čára určená počátkem, který ji omezuje, a libovolným dalším bodem 
+ROVINA - neomezená dokonale rovná plocha určena minimálně třemi body 
+POLOROVINA - část roviny omezená hraniční přímkou a k tomu určená minimálně jedním dalším bodem mimo tu přímku 
+ÚHEL - část roviny ohraničena dvěma polopřímkami se společným počátkem 
+KONVEXNÍ - basic 
+NEKONVEXNÍ - vykouslý 
+EULEROVA PŘÍMKA - v libovolném trojúhelníku, leží na ní střed kružnice vepsané, ortocentrum (průsečík výšek) i těžiště 
+16. 
+SHODNÉ ZOBRAZENÍ - je to ve výsledku steně velký 
+17. 
+CAVALIERIHO PRINCIP - tělesa se stejně velkými podstavami a výškami mají stejný objem, pokud mají řezy rovnoběžné s podstavami a vedené ve stejné vzdálenosti od podstav stejné obsahy 
+18. 
+asi nic ....proč jsou sakra dvě ráno 
+19. 
+JEDNOTKOVÝ VEKTOR - délka = 1 
+BÁZE - trojice vektorů neležící v jedné rovině, pravotočivá/levotočivá (pravá/levá ruka pravidlo) 
+20. 
+... 
+21. 
+...pořád analytika... 
+22. 
+That's a lot of damage. 
+23. 
+DERIVACE - získáme směrnici tečny 
+L'HOSPITALOVO PRAVIDLO - f, g; f/g; obě mají derivaci v bodě nulu/limitu nekonečno → můžu zderivovat 
+první derivace - rostoucí/klesající 
+druhá derivace - kovexní/konkávní 
+24. 
+PRIMITIVNÍ FCE - F - F, f: F'(x) = f(x), F(x) = ∫f(x)dx 
+25. 
+INFLEXNÍ BODY - konvexnost se mění na konkávnost nebo opačně 
