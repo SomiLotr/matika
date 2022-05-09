@@ -1,0 +1,2 @@
+18. Polohové a metrické úlohy ve stereometrii
+Vzájemná poloha bodů, přímek a rovin v prostoru. Kritéria rovnoběžnosti přímek a rovin. Průsečík přímky a roviny, průsečnice dvou rovin. Řez tělesa rovinou, průnik přímky s tělesem. Odchylka přímek, kolmost přímek, kolmost rovin, odchylka přímky a roviny, odchylka dvou rovin. Vzdálenost dvou bodů, bodu od přímky, bodu od roviny, vzdálenost dvou přímek, vzdálenost dvou rovin. 
