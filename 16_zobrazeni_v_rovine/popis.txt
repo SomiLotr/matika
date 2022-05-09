@@ -1,0 +1,2 @@
+16. Zobrazení v rovině
+Shodná zobrazení v rovině, vzor, obraz, samodružný útvar, samodružný bod, identita, osová souměrnost, středová souměrnost, otočení, posunutí. Řešení konstrukčních úloh s využitím shodných zobrazení. Podobnost a stejnolehlost, podobnost trojúhelníků, Pythagorova věta, Euklidovy věty, stejnolehlost kružnic, řešení konstrukčních úloh pomocí stejnolehlosti. 
