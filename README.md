@@ -1,2 +1,2 @@
 # matika
-Materiály k maturitním otázkám z matematiky 200
+Materiály k maturitním otázkám z matematiky 2002
