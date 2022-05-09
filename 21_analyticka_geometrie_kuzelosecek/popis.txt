@@ -1,0 +1,2 @@
+21. Analytická geometrie kuželoseček
+Definice a analytické vyjádření kružnice, elipsy, paraboly, hyperboly. Vzájemná poloha přímky a kuželosečky, rovnice tečny. 
