@@ -1,0 +1,2 @@
+5. Vlastnosti algebraických funkcí a posloupností
+Pojem funkce reálné proměnné, definiční obor funkce, obor hodnot funkce, graf funkce, složená funkce, prostá funkce, omezenost funkce, sudá a lichá funkce, maximum a minimum funkce, periodická funkce, inverzní funkce, složená funkce. 
