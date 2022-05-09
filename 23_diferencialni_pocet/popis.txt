@@ -1,0 +1,2 @@
+23. Diferenciální počet
+Derivace funkce v bodě, základní geometrická a fyzikální interpretace derivace funkce v bodě, derivace součtu, rozdílu, součinu, podílu funkcí, derivace složené funkce, derivace elementárních funkcí, odvození na základě definice, l‘Hospitalovo pravidlo a jeho užití. Využití diferenciálního počtu při hledání extrémních hodnot funkcí jedné reálné proměnné.
