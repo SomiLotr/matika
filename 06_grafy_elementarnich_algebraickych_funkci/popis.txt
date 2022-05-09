@@ -1,0 +1,2 @@
+6. Grafy elementárních algebraických funkcí
+Lineární funkce (rozdělení podle koeficientu a), kvadratická funkce (rozdělení podle koeficientu a), určení extrému kvadratické funkce (doplněním na čtverec i pomocí diferenciálního počtu). Mocninné funkce s přirozeným mocnitelem, mocninné funkce se záporným celým mocnitelem a jejich vlastnosti v závislosti na mocniteli. Mocninné funkce s exponentem 1/n, kde n∈N. Lineární lomená funkce. Grafy elementárních funkcí s absolutními hodnotami. 
