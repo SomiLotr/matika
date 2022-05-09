@@ -1,0 +1,2 @@
+9. Goniometrie a trigonometrie
+Goniometrické funkce sinus, kosinus, tangens, kotangens, definiční obory, obory hodnot, grafy, vlastnosti. Goniometrické funkce složeného argumentu. Vztahy mezi goniometrickými funkcemi, goniometrické funkce ostrého úhlu, řešení pravoúhlého trojúhelníku, sinová věta, kosinová věta, řešení obecného trojúhelníku. 
