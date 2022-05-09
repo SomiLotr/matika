@@ -1,0 +1,2 @@
+17. Tělesa
+Pojem tělesa, konvexní a nekonvexní tělesa, mnohostěny, hranol, kvádr, krychle, vrcholy, hrany, stěny, stěnové úhlopříčky, tělesové úhlopříčky. Jehlan, komolý jehlan. Pravidelné mnohostěny (tzv. platónská tělesa) princip duality, Eulerova věta o mnohostěnech. Rotační tělesa, válec, kužel, komolý kužel, koule, kulová plocha. Polokoule, kulová úseč, kulový vrchlík (plášť kulové úseče), kulová výseč. Povrchy a objemy těles. Cavalieriho princip. 
