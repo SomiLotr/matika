@@ -1,0 +1,2 @@
+13. Statistika
+Statistický soubor, statistické jednotky, statistické znaky, četnost a relativní četnost, rozdělení četností a skupinové rozdělení četností, grafické znázornění rozdělení četnosti, spojnicový diagram, histogram, kruhový diagram). Charakteristiky znaku statistického souboru. Charakteristiky polohy, aritmetický průměr, vážený aritmetický průměr, geometrický průměr, harmonický průměr, modus, medián. Charakteristiky variability, rozptyl, směrodatná odchylka, variační koeficient. 
