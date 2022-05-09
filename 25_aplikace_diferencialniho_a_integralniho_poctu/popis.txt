@@ -1,0 +1,2 @@
+25. Aplikace diferenciálního a integrálního počtu
+Vyšetřování průběhu analyticky zadané funkce, monotónnost a derivace, lokální extrémy funkce a derivace, funkce konvexní a konkávní, inflexní body, asymptoty. Slovní úlohy na extrémy. Výpočty obsahů rovinných útvarů, výpočet objemu rotačního tělesa.  
