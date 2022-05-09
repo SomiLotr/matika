@@ -1,0 +1,2 @@
+24. Integrální počet
+Definice primitivní funkce k dané funkci, primitivní funkce k elementárním funkcím. Integrační metody, přímá integrace, metoda per partes, metoda substituční. Pojem určitého integrálu, vlastnosti určitých integrálů, substituce a metoda per partes v určitém integrálu. Výpočet obsahu rovinného obrazce a výpočet objemu rotačního tělesa užitím určitého integrálu. 
