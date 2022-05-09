@@ -1,0 +1,2 @@
+22. Polohové a metrické úlohy řešené metodou analytické geometrie
+Střed úsečky a délka úsečky, vzájemná poloha bodu a přímky, vzdálenost bodu od přímky, vzájemná poloha přímek, polopřímek a úseček v rovině, odchylka dvou přímek v rovině, vzájemná poloha bodu a roviny, vzájemná poloha dvou přímek v prostoru, vzájemná poloha přímky a roviny, vzájemná poloha kuželosečky a bodu, vzájemná poloha přímky a kuželosečky, tečna kuželosečky v bodě dotyku, rovnoběžná s danou přímkou, kolmá k dané přímce. 
