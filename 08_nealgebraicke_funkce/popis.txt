@@ -1,0 +1,2 @@
+8. Nealgebraické funkce
+Exponenciální funkce, definiční obor, obor hodnot, graf a vlastnosti v závislosti na jejím základu a. Logaritmická funkce, definiční obor, obor hodnot, graf a vlastnosti v závislosti na jejím základu a. Funkce y = log(x) a y = ln(x). Pojem logaritmus, vlastnosti logaritmů. 
