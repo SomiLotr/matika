@@ -1,2 +1,0 @@
-7. Limita a spojitost funkce
-Okolí bodu, přírůstek argumentu, přírůstek funkce, funkce spojitá v bodě, funkce spojitá v uzavřeném intervalu. Limita funkce, pravidla pro počítání limit, nevlastní limity a limity v nevlastních bodech, důležité limity. Asymptoty grafu funkce. 
