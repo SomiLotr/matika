@@ -1,0 +1,2 @@
+20. Analytická geometrie lineárních útvarů
+Parametrické vyjádření přímky, polopřímky, úsečky, obecná rovnice přímky, směrové a normálové vektory, směrnicový a úsekový tvar rovnice přímky, směrnice přímky. Vzájemná poloha bodů a přímek v rovině, odchylka dvou přímek, vzdálenost bodů, bodu od přímky, vzdálenost dvou rovnoběžných přímek. Parametrické vyjádření přímky v prostoru, parametrické vyjádření roviny, obecná rovnice roviny, normálový vektor roviny. 
