@@ -1,0 +1,2 @@
+19. Vektorová algebra
+Soustava souřadnic na přímce, v rovině, v prostoru. Střed dvojice bodů, vzdálenost dvou bodů. Souřadnice vektoru, velikost vektoru, sčítání vektorů, násobení vektorů reálným číslem. Lineární kombinace vektorů, jednotkový vektor, skalární součin, odchylka vektorů. Pravotočivá a levotočivá báze. Vektorový součin, geometrická interpretace. 
