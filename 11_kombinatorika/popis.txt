@@ -1,0 +1,2 @@
+11. Kombinatorika
+Základní kombinatorická pravidla (součtu a součinu), pojem faktoriálu čísla, skupiny v kombinatorice, variace, permutace, variace s opakováním, kombinace, kombinační čísla a jejich vlastnosti, binomická věta. 
