@@ -1,0 +1,2 @@
+12. Pravděpodobnost
+Náhodné pokusy, množina všech možných výsledků pokusu, jevy v množinovém pojetí a operace s jevy, jistý jev, nemožný jev, klasická definice pravděpodobnosti, základní vlastnosti pravděpodobnosti jevů, pravděpodobnost opačných jevů, pravděpodobnost sjednocení jevů pro jevy neslučitelné i slučitelné, nezávislé jevy, pravděpodobnost průniku nezávislých jevů, opakované nezávislé pokusy, binomické rozdělení (Bernoulliho schéma) a jeho užití. 
