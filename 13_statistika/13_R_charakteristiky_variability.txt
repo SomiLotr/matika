@@ -1,0 +1,21 @@
+střední hodnota - pro moje účely průměr 
+
+VARIAČNÍ ROZPĚTÍ 
+= rozdíl mezi největší a nejmenší hodnotou celého souboru 
+
+ROZPTYL 
+= střední hodnota kvadrátů odchylek od střední hodnoty (fuck my life to se nedá) 
+- mám odchylky od středu (= od střední hodnoty) → průměr jejich druhých mocnin (průměrem je myšlena střední hodnota, ale to tu větu nepochopím) 
+- jak daleko jsou data ve vzorku shromážděna kolem průměrné hodnoty 
+→ prostě vezmu hodnotu a odečtu od ní průměr → dostanu o kolik se od toho liší → všechny je umocním dvojkou → tohle pak sečtu → vydělím to číslem o 1 menším, než je počet vzorků → rozptyl 
+
+SMĚRODATNÁ ODCHYLKA 
+= druhá odmocnina z rozptylu 
+- směrodatná odchylka má stejný rozměr jako měřený znak a jeho střední hodnota 
+- vypovídá o tom, nakolik se od sebe navzájem typicky liší jednotlivé případy v souboru zkoumaných hodnot (prostě určí rozptyl čísel v našem vzorku) 
+
+VARIAČNÍ KOEFICIENT 
+= podíl směrodatné odchylky a aritmetického průměru 
+
+
+
