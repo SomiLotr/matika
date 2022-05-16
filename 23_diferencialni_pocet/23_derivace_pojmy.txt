@@ -1,0 +1,12 @@
+INFLEXNÍ BOD: 
+	jedno z tohohle platí: 
+	- konvexnost se mění na konkávnost 
+	- není definovaná druhá derivace 
+	- druhá derivace je nulová 
+STACIONÁRNÍ BOD: 
+	= nulový bod derivací 
+BODY PODEZŘELÉ Z LOKÁLNÍHO EXTRÉMU: 
+	- stacionární body 
+	- body nespojitosti 
+	- body, pro něž neexistuje derivace 
+	- krajní body definičního oboru 
